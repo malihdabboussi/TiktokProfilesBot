@@ -1,0 +1,22 @@
+{
+  "name": "tiktok_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tiktok.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.3.9",
+    "csv-stringify": "^6.3.3",
+    "jimp": "^0.22.7",
+    "puppeteer": "^20.1.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-anonymize-ua": "^2.4.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "webp-converter": "^2.3.3"
+  }
+}
